@@ -1,7 +1,3 @@
-# TODO: Define the Task class
-# Each task should store a title and a completed status (default False)
-# Add a complete() method that marks the task as completed and prints confirmation
-
 class Task:
     def __init__(self, title):
         self.title = title
